@@ -1,2 +1,2 @@
-# [webvend.co.zw](https://webvend.co.zw)
-WebVend official website
+# [Binary Apps](https://binary-apps.com)
+Binary Apps official website
